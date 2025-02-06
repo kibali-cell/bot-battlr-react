@@ -4,7 +4,7 @@ A React application for building your ultimate bot army by enlisting, managing, 
 
 ![Bot Battlr Preview](https://bot-battlr-sepia.vercel.app/) 
 
-[Bot Battlr Preview]([https://example.com](https://bot-battlr-sepia.vercel.app/))
+[Bot Battlr Preview](https://bot-battlr-sepia.vercel.app/)
 
 ## Table of Contents
 - [Features](#features)
